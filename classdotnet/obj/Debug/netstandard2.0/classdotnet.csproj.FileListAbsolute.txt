@@ -1,0 +1,9 @@
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\bin\Debug\netstandard2.0\classdotnet.deps.json
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\bin\Debug\netstandard2.0\classdotnet.dll
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\bin\Debug\netstandard2.0\classdotnet.pdb
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\obj\Debug\netstandard2.0\classdotnet.csprojAssemblyReference.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\obj\Debug\netstandard2.0\classdotnet.csproj.CoreCompileInputs.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\obj\Debug\netstandard2.0\classdotnet.AssemblyInfoInputs.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\obj\Debug\netstandard2.0\classdotnet.AssemblyInfo.cs
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\obj\Debug\netstandard2.0\classdotnet.dll
+C:\Users\shinygold.gera\source\repos\classdotnet\classdotnet\obj\Debug\netstandard2.0\classdotnet.pdb

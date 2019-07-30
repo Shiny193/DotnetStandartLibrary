@@ -1,0 +1,14 @@
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\core.deps.json
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\core.runtimeconfig.json
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\core.runtimeconfig.dev.json
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\core.dll
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\core.pdb
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\classdotnet.dll
+C:\Users\shinygold.gera\source\repos\classdotnet\core\bin\Debug\netcoreapp2.1\classdotnet.pdb
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.csprojAssemblyReference.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.csproj.CoreCompileInputs.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.AssemblyInfoInputs.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.AssemblyInfo.cs
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.csproj.CopyComplete
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.dll
+C:\Users\shinygold.gera\source\repos\classdotnet\core\obj\Debug\netcoreapp2.1\core.pdb

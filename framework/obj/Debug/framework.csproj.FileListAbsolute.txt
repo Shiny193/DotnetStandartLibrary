@@ -1,0 +1,10 @@
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\bin\Debug\framework.exe.config
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\bin\Debug\framework.exe
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\bin\Debug\framework.pdb
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\obj\Debug\framework.csprojAssemblyReference.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\obj\Debug\framework.exe
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\obj\Debug\framework.pdb
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\bin\Debug\classdotnet.dll
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\bin\Debug\classdotnet.pdb
+C:\Users\shinygold.gera\source\repos\classdotnet\framework\obj\Debug\framework.csproj.CopyComplete
